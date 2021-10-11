@@ -1,0 +1,14 @@
+id_cp_interaction	interacting_pair	partner_a	partner_b	gene_a	gene_b	secreted	receptor_a	receptor_b	annotation_strategy	is_integrin	macrophages|macrophages	macrophages|non-sensitive	macrophages|sensitive	non-sensitive|macrophages	non-sensitive|non-sensitive	non-sensitive|sensitive	sensitive|macrophages	sensitive|non-sensitive	sensitive|sensitive
+CPI-SS0755A26DD	FGF1_FGFR1	simple:P05230	simple:P11362	ENSG00000113578	ENSG00000077782	True	False	True	curated	False	0.386	0.763	1.066	0.389	0.766	1.069	0.388	0.765	1.068
+CPI-SS04B4619D0	TNF_TNFRSF1A	simple:P01375	simple:P19438	ENSG00000232810	ENSG00000067182	True	False	True	curated	False	1.428	1.414	1.399	0.65	0.636	0.621	0.629	0.615	0.6
+CPI-SS0E7D5974D	TNF_TNFRSF1B	simple:P01375	simple:P20333	ENSG00000232810	ENSG00000028137	True	False	True	curated	False	1.839	1.159	1.072	1.061	0.381	0.294	1.04	0.36	0.273
+CPI-SS0B70EB09E	PDGFA_PDGFRA	simple:P04085	simple:P16234	ENSG00000197461	ENSG00000134853	True	False	True	curated	False	0.433	0.863	0.949	0.548	0.978	1.064	0.592	1.022	1.108
+CPI-CS06072FF4E	IL1 receptor_IL1A	complex:IL1 receptor	simple:P01583		ENSG00000115008	True	True	False	curated	False	0.267	0.071	0.063	0.267	0.071	0.063	0.258	0.061	0.054
+CPI-CS05426BFFA	IL1 receptor_IL1B	complex:IL1 receptor	simple:P01584		ENSG00000125538	True	True	False	curated	False	7.458	1.42	0.592	7.459	1.42	0.593	7.449	1.41	0.583
+CPI-CS04CBDE052	IL10 receptor_IL10	complex:IL10 receptor	simple:P22301		ENSG00000136634	True	True	False	curated	False	0.323	0.087	0.064	0.312	0.077	0.053	0.306	0.071	0.047
+CPI-CS06E556972	IL15 receptor_IL15	complex:IL15 receptor	simple:P40933		ENSG00000164136	True	True	False	curated	False	0.083	0.056	0.041	0.08	0.054	0.039	0.069	0.043	0.028
+CPI-CS04F158618	IL17 receptor AC_IL17A	complex:IL17 receptor AC	simple:Q16552		ENSG00000112115	True	True	False	curated	False	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+CPI-CS063AE1C91	IL6 receptor_IL6	complex:IL6 receptor	simple:P05231		ENSG00000136244	True	True	False	curated	False	1.989	4.723	2.928	1.831	4.565	2.77	1.819	4.553	2.757
+CPI-CS0AB9C7139	IL7 receptor_IL7	complex:IL7 receptor	simple:P13232		ENSG00000104432	True	True	False	curated	False	0.221	0.21	0.201	0.101	0.089	0.081	0.054	0.042	0.034
+CPI-SC098C06330	TGFB1_TGFbeta receptor1	simple:P01137	complex:TGFbeta receptor1	ENSG00000105329		True	False	True	curated	False	0.561	0.555	0.583	0.453	0.447	0.475	0.583	0.578	0.606
+CPI-SC0984894BC	TGFB1_TGFbeta receptor2	simple:P01137	complex:TGFbeta receptor2	ENSG00000105329		True	False	True	curated	False	0.497	0.562	0.577	0.389	0.454	0.469	0.52	0.585	0.6

@@ -1,0 +1,14 @@
+id_cp_interaction	interacting_pair	partner_a	partner_b	gene_a	gene_b	secreted	receptor_a	receptor_b	annotation_strategy	is_integrin	macrophages|macrophages	macrophages|non-sensitive	macrophages|sensitive	non-sensitive|macrophages	non-sensitive|non-sensitive	non-sensitive|sensitive	sensitive|macrophages	sensitive|non-sensitive	sensitive|sensitive
+CPI-SS0755A26DD	FGF1_FGFR1	simple:P05230	simple:P11362	ENSG00000113578	ENSG00000077782	True	False	True	curated	False	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+CPI-SS04B4619D0	TNF_TNFRSF1A	simple:P01375	simple:P19438	ENSG00000232810	ENSG00000067182	True	False	True	curated	False	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0
+CPI-SS0E7D5974D	TNF_TNFRSF1B	simple:P01375	simple:P20333	ENSG00000232810	ENSG00000028137	True	False	True	curated	False	0.0	0.0	0.7	1.0	1.0	1.0	1.0	1.0	1.0
+CPI-SS0B70EB09E	PDGFA_PDGFRA	simple:P04085	simple:P16234	ENSG00000197461	ENSG00000134853	True	False	True	curated	False	1.0	1.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0
+CPI-CS06072FF4E	IL1 receptor_IL1A	complex:IL1 receptor	simple:P01583		ENSG00000115008	True	True	False	curated	False	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+CPI-CS05426BFFA	IL1 receptor_IL1B	complex:IL1 receptor	simple:P01584		ENSG00000125538	True	True	False	curated	False	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+CPI-CS04CBDE052	IL10 receptor_IL10	complex:IL10 receptor	simple:P22301		ENSG00000136634	True	True	False	curated	False	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+CPI-CS06E556972	IL15 receptor_IL15	complex:IL15 receptor	simple:P40933		ENSG00000164136	True	True	False	curated	False	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+CPI-CS04F158618	IL17 receptor AC_IL17A	complex:IL17 receptor AC	simple:Q16552		ENSG00000112115	True	True	False	curated	False	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+CPI-CS063AE1C91	IL6 receptor_IL6	complex:IL6 receptor	simple:P05231		ENSG00000136244	True	True	False	curated	False	1.0	0.0	0.988	1.0	1.0	1.0	1.0	1.0	1.0
+CPI-CS0AB9C7139	IL7 receptor_IL7	complex:IL7 receptor	simple:P13232		ENSG00000104432	True	True	False	curated	False	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+CPI-SC098C06330	TGFB1_TGFbeta receptor1	simple:P01137	complex:TGFbeta receptor1	ENSG00000105329		True	False	True	curated	False	0.0	0.0	0.0	1.0	1.0	1.0	0.0	0.0	0.0
+CPI-SC0984894BC	TGFB1_TGFbeta receptor2	simple:P01137	complex:TGFbeta receptor2	ENSG00000105329		True	False	True	curated	False	1.0	0.0	0.0	1.0	1.0	0.989	1.0	0.0	0.0
